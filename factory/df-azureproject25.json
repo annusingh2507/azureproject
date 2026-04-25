@@ -1,0 +1,15 @@
+{
+	"name": "df-azureproject25",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b84b9772-da37-4513-ba09-3f8c13d30800",
+		"tenantId": "6767769a-284b-4b03-9202-4df2d80084c6"
+	}
+}
